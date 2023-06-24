@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
             headerBgImage="/images/home-bg.jpg"
         >
             <Head>
-                <title>Home - {siteTitle}</title>
+                <title>{`Home - ${siteTitle}`}</title>
             </Head>
             <BlogList blogs={allPostsData}></BlogList>
         </Layout>
