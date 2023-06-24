@@ -15,6 +15,9 @@
 # production
 /build
 
+# themes file
+/vendor
+
 # misc
 .DS_Store
 
