@@ -14,10 +14,10 @@ export default function Document() {
         {/* COAD */}
         <script
           async
-          src="https://verify.coad.com/check.js?client=coad-pub-CYdNJkqa5BksOF6HW"
+          src="https://verify.coad.com/check.js?client=coad-pub-eulyjS8Waok1Y1ZE0"
           crossOrigin="anonymous"
         />
-        <meta name="coad-publisher-account" content="coad-pub-CYdNJkqa5BksOF6HW" />
+        <meta name="coad-publisher-account" content="coad-pub-eulyjS8Waok1Y1ZE0" />
       </Head>
       <body>
         <Main />
