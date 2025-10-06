@@ -17,7 +17,7 @@ export default function Document() {
           src="https://verify.coad.com/check.js?client=coad-pub-eulyjS8Waok1Y1ZE0"
           crossOrigin="anonymous"
         />
-        <meta name="coad-publisher-account" content="coad-pub-eulyjS8Waok1Y1ZE0" />
+        <meta name="coad-publisher-account" content="coad-pub-k3DVTOC7jsbb9CY3V" />
       </Head>
       <body>
         <Main />
