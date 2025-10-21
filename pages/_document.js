@@ -17,7 +17,7 @@ export default function Document() {
           src="https://verify.coad.com/check.js?client=coad-pub-eulyjS8Waok1Y1ZE0"
           crossOrigin="anonymous"
         />
-        <meta name="coad-publisher-account" content="coad-pub-k3DVTOC7jsbb9CY3V" />
+		<meta name="coad-publisher-account" content="coad-pub-g7larehvjvAfhf5kG"></meta>
 
         {/* Additional COAD Script */}
         <script
@@ -25,6 +25,7 @@ export default function Document() {
           src="NOT_FOUND?client=coad-pub-k3DVTOC7jsbb9CY3V"
           crossOrigin="anonymous"
         />
+		<script async src="NOT_FOUND?client=coad-pub-g7larehvjvAfhf5kG"  crossorigin="anonymous"></script>
       </Head>
       <body>
         <Main />
