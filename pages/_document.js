@@ -18,6 +18,7 @@ export default function Document() {
           crossOrigin="anonymous"
         />
 		<meta name="coad-publisher-account" content="coad-pub-g7larehvjvAfhf5kG"></meta>
+		<meta name="coad-publisher-account" content="coad-pub-YE5Bf23wGpwgy2OFk"></meta>
 
         {/* Additional COAD Script */}
         <script
